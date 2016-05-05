@@ -1,0 +1,38 @@
+[
+  {
+    "center": {
+      "x": 263.0,
+      "y": 303.0
+    },
+    "radius": 237.0,
+    "color": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "SHAPE_TYPE": "cs355.model.drawing.Circle"
+  },
+  {
+    "upperLeft": {
+      "x": 201.0,
+      "y": 180.0
+    },
+    "size": 159.0,
+    "color": {
+      "value": -13434829,
+      "falpha": 0.0
+    },
+    "SHAPE_TYPE": "cs355.model.drawing.Square"
+  },
+  {
+    "upperLeft": {
+      "x": 100.0,
+      "y": 98.0
+    },
+    "size": 250.0,
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "SHAPE_TYPE": "cs355.model.drawing.Square"
+  }
+]
