@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cs355.model.drawing.Rectangle"/>
+<fullyQualifiedTypeName name="cs355.model.drawing.Square"/>
+<fullyQualifiedTypeName name="cs355.model.drawing.Ellipse"/>
+<fullyQualifiedTypeName name="cs355.model.drawing.Triangle"/>
+<fullyQualifiedTypeName name="java.awt.event.MouseEvent"/>
+<fullyQualifiedTypeName name="cs355.model.drawing.Circle"/>
+<fullyQualifiedTypeName name="java.awt.geom.AffineTransform"/>
+<fullyQualifiedTypeName name="cs355.GUIFunctions"/>
+<fullyQualifiedTypeName name="java.awt.Graphics2D"/>
+<fullyQualifiedTypeName name="cs355.model.drawing.Shape"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="cs355.controller.MyController"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.awt.geom.Point2D"/>
+<fullyQualifiedTypeName name="cs355.model.drawing.Line"/>
+<fullyQualifiedTypeName name="java.awt.geom.Point2D.Double"/>
+</qualifiedTypeNameHistroy>
