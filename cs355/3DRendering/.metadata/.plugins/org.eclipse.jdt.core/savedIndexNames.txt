@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/users/guest/r/randalpp/cs 355/3DRendering/.metadata/.plugins/org.eclipse.jdt.core
+1151362989.index
